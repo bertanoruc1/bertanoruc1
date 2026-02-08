@@ -64,3 +64,5 @@ To-do apps, filters, animations, local storage
 ## 🤝 Let’s Connect
 - 🌐 Website: https://bertanoruc.com
 - 💼 GitHub: https://github.com/bertanoruc
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=bertanoruc&color=blueviolet)
