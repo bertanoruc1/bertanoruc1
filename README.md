@@ -52,17 +52,17 @@ To-do apps, filters, animations, local storage
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bertanoruc&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bertanoruc1&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bertanoruc&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bertanoruc1&theme=radical" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 - 🌐 Website: https://bertanoruc.com
-- 💼 GitHub: https://github.com/bertanoruc
+- 💼 GitHub: https://github.com/bertanoruc1
 
   ![Profile Views](https://komarev.com/ghpvc/?username=bertanoruc&color=blueviolet)
